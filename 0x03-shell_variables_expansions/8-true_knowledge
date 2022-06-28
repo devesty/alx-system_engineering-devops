@@ -1,0 +1,3 @@
+#!/bin/bash
+ecase 
+cho $((128+$TRUEKNOWLEDGE))
